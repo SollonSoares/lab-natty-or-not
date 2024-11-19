@@ -1,4 +1,5 @@
 Pele Saudável: Criado com IA – Da Simplicidade ao Avançado
+
 📒 Descrição
 Este projeto apresenta um eBook completo e prático sobre cuidados com a pele, criado utilizando ferramentas de IA generativa. Ele aborda desde conceitos básicos até técnicas avançadas, oferecendo uma abordagem detalhada e acessível para qualquer pessoa interessada em melhorar sua rotina de skincare.
 
@@ -13,6 +14,7 @@ ChatGPT: Para gerar o conteúdo textual de alta qualidade e informativo.
 DALL-E: Para criar ilustrações únicas para cada capítulo do eBook.
 FPDF (Python): Para compilar o conteúdo e as imagens em um arquivo PDF coeso e estilizado.
 Google Drive: Para compartilhar o arquivo final.
+
 🧐 Processo de Criação
 Planejamento:
 
@@ -33,9 +35,11 @@ Foi aplicada uma formatação consistente para garantir uma leitura fluida e agr
 Compartilhamento:
 
 O arquivo PDF final foi hospedado no Google Drive para fácil acesso e compartilhamento.
+
 🚀 Resultados
 Produto Final: Um eBook completo sobre cuidados com a pele, apresentando informações úteis e visuais atraentes.
 Link do eBook: Pele Saudável: Do Básico ao Avançado
 Impacto: O eBook combina tecnologia e informação, destacando o potencial de IA generativa para criar conteúdos práticos e esteticamente agradáveis.
+
 💭 Reflexão (Opcional)
 Criar este eBook foi uma experiência enriquecedora, mostrando como ferramentas de IA podem transformar ideias em produtos concretos. A maior dificuldade foi alinhar a qualidade do conteúdo com a estética visual, mas o resultado final demonstra o poder das tecnologias generativas na criação de conteúdos educativos e acessíveis.
