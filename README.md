@@ -5,9 +5,6 @@ Este projeto apresenta um eBook completo e prático sobre cuidados com a pele, c
 
 Com conteúdo estruturado e imagens geradas exclusivamente, o eBook proporciona uma experiência única, unindo informação e design de forma harmoniosa.
 
-Link para download do eBook completo: [Clique aqui](https://drive.google.com/file/d/1Gj-RTeBDEhbB605QPnUthpAXLcaZnLN1/view?usp=sharing)
-
-
 ## 🤖 Tecnologias Utilizadas
 As seguintes ferramentas foram utilizadas para criar este projeto:
 
